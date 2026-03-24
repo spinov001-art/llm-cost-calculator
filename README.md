@@ -73,6 +73,8 @@ For classification, extraction, and specific tasks: [fine-tune your own model](h
 - [ML Fine-Tuning for $0](https://github.com/spinov001-art/ml-fine-tuning-free)
 - [Free GPU Options](https://github.com/spinov001-art/free-gpu-machine-learning)
 - [Web Scraping Tools](https://github.com/spinov001-art/awesome-web-scraping-2026)
+- [Prompt Engineering Guide](https://github.com/Spinov001-art/prompt-engineering-guide) — Patterns to get better results for less
+- [AI Tools Comparison 2026](https://github.com/Spinov001-art/ai-tools-comparison) — Honest benchmarks across all AI tools
 - [All tutorials on Dev.to](https://dev.to/0012303)
 
 ## License
