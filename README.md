@@ -75,6 +75,9 @@ For classification, extraction, and specific tasks: [fine-tune your own model](h
 - [Web Scraping Tools](https://github.com/spinov001-art/awesome-web-scraping-2026)
 - [Prompt Engineering Guide](https://github.com/Spinov001-art/prompt-engineering-guide) — Patterns to get better results for less
 - [AI Tools Comparison 2026](https://github.com/Spinov001-art/ai-tools-comparison) — Honest benchmarks across all AI tools
+- [RAG from Scratch](https://github.com/spinov001-art/rag-tutorial-python) — Build RAG in 100 lines of Python
+- [AI Agent Starter](https://github.com/spinov001-art/ai-agent-starter) — Build an agent in 150 lines
+- [LLM Prompt Patterns](https://github.com/spinov001-art/llm-prompt-engineering) — 15 battle-tested patterns
 - [All tutorials on Dev.to](https://dev.to/0012303)
 
 ## License
